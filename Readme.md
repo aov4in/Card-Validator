@@ -1,9 +1,7 @@
 <b>Отчёт о тестировании Credit Card Number Validator </b>
-<p>Необходимо установить IntelliJ IDEA, проверить функциональность приложения Credit Card Number Validator.
+<p>Необходимо установить IntelliJ IDEA,было проведено функциональное тестирование приложения "Credit Card Number Validator".
 <p>Дата начала - 13.01.2021
 <p>Дата окончания - 13.01.2021
-
-Было проведено тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 2 час
 
